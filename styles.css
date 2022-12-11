@@ -1,0 +1,51 @@
+.container{
+    align-items: center;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    padding: 30px;
+    font-size: 75px;
+}
+
+h3{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+.pp{
+    text-decoration: underline;
+    color: black;
+    
+    
+}
+
+.description{
+    font-weight: bold;
+    padding-left: 5px;
+    padding-right: 5px;
+ 
+   }
+
+.bottom{
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+body{
+    margin: 0px;
+}
+
+.ppp{
+    font-size: medium;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+.underline{
+    text-decoration: underline;
+}
